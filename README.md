@@ -1,4 +1,4 @@
-# ```v.0.0.1```
+# XiaoBot```v.0.0.1```
 ## Description
 Well, I try to code a bot. Basically, I ~~ripped from~~ took inspiration from [here](https://github.com/foxbot/patek/tree/) and added some stuff (which I haven't done yet).
 ## Changes to previous version
